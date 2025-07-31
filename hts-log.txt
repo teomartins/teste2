@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 31 Jul 2025 15:56:58 at https://memoryiit.com/create +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://memoryiit.com/create -O1 "J:\site\teste 2\test2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:56:59	Warning: 	Temporary Redirect for https://memoryiit.com/robots.txt
+15:56:59	Warning: 	File has moved from https://memoryiit.com/robots.txt to /not-found
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/2797-98d28b5e85160a4b.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/2848-da10e80353973a64.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/1619-0d260849923a9abc.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/9052-808b1158548e7f1a.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/6874-0cb6a1b7d5eede11.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/3942-77965ea4975d9640.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/8278-e8bcb7e754fe9cfa.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/7655-e8d396a5238c84dc.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/774-360f4dbadcef6cd0.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/391-3aed6820d849da05.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/70e0d97a-e9f2507dda2ac4a0.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/54a60aa6-7f5191bd7cce99ea.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/f4898fe8-abaa8bbf57901c6b.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/9106-61603962fd18f037.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/5005-2875ed3c4784a51a.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/ic/chunks/6641-d077e70adcbc4323.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/3725-5b031661b8649361.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/2960-8741f9c462fcb501.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/4311-e41325bdca5ec764.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/2280-42a5f40a882a218b.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/5710-83ccfca3474066eb.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/708-76cc665d76318abe.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:54	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/4150-a49c03ba98674e72.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/create)
+15:57:55	Error: 	"Not Found" (404) at link https://memoryiit.com/static/chunks/7898-f5232c4d556ecdb5.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/login)
+15:57:55	Error: 	"Not Found" (404) at link https://memoryiit.com/atic/chunks/9052-808b1158548e7f1a.js?dpl=dpl_ACQrE8BNFomMJW49yYzRjaqoqF9G (from https://memoryiit.com/login)
+
+HTTrack Website Copier/3.49-2 mirror complete in 57 seconds : 100 links scanned, 74 files written (3814466 bytes overall) [1976640 bytes received at 34677 bytes/sec], 4618851 bytes transferred using HTTP compression in 76 files, ratio 31%
+(25 errors, 2 warnings, 0 messages)
